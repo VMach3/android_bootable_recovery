@@ -136,10 +136,10 @@
 		<string name="format_data_btn">Formátovat Data</string>
 		<string name="format_data_ptr1">Formátování Data vymaže všechny aplikace,</string>
 		<string name="format_data_ptr2">zálohy, fotky, videa, hudbu</string>
-		<string name="format_data_ptr3">a vymaže enkrypci vnitřní paměťi.</string>
+		<string name="format_data_ptr3">a vymaže enkrypci vnitřní paměti.</string>
 		<string name="format_data_adopted">Zahrnuje adoptovanou paměť</string>
 		<string name="format_data_lcp1">Formátování Data vymaže všechny aplikace, zálohy, fotografie, videa, hudbu</string>
-		<string name="format_data_lcp2">a vymaže enkrypci vnitřní paměťi.</string>
+		<string name="format_data_lcp2">a vymaže enkrypci vnitřní paměti.</string>
 		<string name="format_data_wtc1">Formátování Data vymaže všechny aplikace,</string>
 		<string name="format_data_wtc2">zálohy a hudbu. Tento proces je nevratný.</string>
 		<string name="format_data_undo">Toto je nevratné.</string>
@@ -213,7 +213,7 @@
 		<string name="disabled">Zakázané</string>
 		<string name="enabled">Povolené</string>
 		<string name="backup_name_hdr">Pojmenování zálohy</string>
-		<string name="progress">Příběh:</string>
+		<string name="progress">Průběh:</string>
 		<string name="backup_complete">Zálohovaní je dokončeno</string>
 		<string name="restore_hdr">Obnova</string>
 		<string name="sel_backup_hdr">Vyberte zálohu</string>
@@ -239,7 +239,7 @@
 		<string name="rename_backup_hdr">Přejmenovat zálohu</string>
 		<string name="rename_backup_confirm">Přejmenovat zálohu?</string>
 		<string name="rename_backup_confirm2">Toto je nevratné!</string>
-		<string name="renaming_backup">Přejmenovávaní zálohy...</string>
+		<string name="renaming_backup">Přejmenovávání zálohy...</string>
 		<string name="rename_backup_complete">Přejmenování zálohy dokončeno</string>
 		<string name="swipe_to_rename">Potáhnutím přejmenovat</string>
 		<string name="swipe_rename">   Přejmenovat</string>
@@ -272,7 +272,7 @@
 		<string name="sys_rop2">což zjednoduší instalaci oficiálních aktualizací.</string>
 		<string name="sys_rop3">TWRP nezabrání tuctové ROMky</string>
 		<string name="sys_rop4">přepsat TWRP a nebude nabízet rootování zařízení.</string>
-		<string name="sys_rop5">Instalovaní Zip nebo operace přes adb můžu stále</string>
+		<string name="sys_rop5">Instalovaní Zip nebo operace přes adb může stále</string>
 		<string name="sys_rop6">modifikovat systémový oddíl.</string>
 		<string name="sys_rol1">TWRP může ponechat váš systémový oddíl nezměněný což zjednoduší instalaci oficiálních aktualizací.</string>
 		<string name="sys_rol2">TWRP nezabrání tuctové ROMce přepsat TWRP a nebude nabízet rootování zařízení.</string>
@@ -313,7 +313,7 @@
 		<string name="utcm2">(UTC -2) Středoatlantický čas</string>
 		<string name="utcm1">(UTC -1) Azory, Cape Verde</string>
 		<string name="utc0">(UTC  0) Greenwichský čas, Londýn, Dublin, Lisabon</string>
-		<string name="utcp1">(UTC +1) Stredoevropský čas, Praha, Berlín, Brusel, Paříž</string>
+		<string name="utcp1">(UTC +1) Středoevropský čas, Praha, Berlín, Brusel, Paříž</string>
 		<string name="utcp2">(UTC +2) Atény, Istanbul, Minsk, Káhira</string>
 		<string name="utcp3">(UTC +3) Moskva, Bagdád, Teherán</string>
 		<string name="utcp4">(UTC +4) Abu Dhabi, Tbilisi, Muscat</string>
@@ -344,10 +344,10 @@
 		<string name="screen_bright_slider">Jas: %tw_brightness_pct%%</string>
 		<string name="screen_bright_na">Nastavení jasu nedostupné</string>
 		<string name="vibration_hdr">Vibrovat</string>
-		<string name="button_vibration_hdr">Vibrovat při stláčení</string>
+		<string name="button_vibration_hdr">Vibrovat při stlačení</string>
 		<string name="kb_vibration_hdr">Vibrovat při psaní</string>
 		<string name="act_vibration_hdr">Vibrovat při akci</string>
-		<string name="button_vibration">Vibrovat při stláčení:</string>
+		<string name="button_vibration">Vibrovat při stlačení:</string>
 		<string name="kb_vibration">Vibrovat při psaní:</string>
 		<string name="act_vibration">Vibrovat při akci:</string>
 		<string name="select_language">Výběr jazyka:</string>
@@ -505,7 +505,7 @@
 		<string name="done">Hotovo.</string>
 		<string name="start_partition_sd">Dělení SD karty...</string>
 		<string name="partition_sd_locate">Nelze najít zařízení na rozdělení.</string>
-		<string name="ext_swap_size">Velikost EXT + Swap je větší jako velikost SD karty.</string>
+		<string name="ext_swap_size">Velikost EXT + Swap je větší než velikost SD karty.</string>
 		<string name="remove_part_table">Vymazávání tabulky rozdělení...</string>
 		<string name="unable_rm_part">Nelze vymazat tabulku rozdělení.</string>
 		<string name="create_part">Vytváření oddílu {1}...</string>
@@ -536,7 +536,7 @@
 		<string name="unable_resize">Nelze natáhnout {1}.</string>
 		<string name="no_digest_found" version="2">Soubor Digest se nenašel pro \'{1}\'. Prosím zvolte Vypnout kontrolu Digest během obnovy.</string>
 		<string name="digest_fail_match" version="2">Digest neodpovídá souboru \'{1}\'.</string>
-		<string name="digest_matched" version="2">Digest matched for '{1}'.</string>
+		<string name="digest_matched" version="2">Digest pasuje k '{1}'.</string>
 		<string name="fail_decrypt_tar">Nelze dešifrovat soubor tar \'{1}\'</string>
 		<string name="format_data_msg">Měli by jste restartovat recovery aby jste mohli znova používat /data.</string>
 		<string name="format_data_err">Nelze formátovat pro zrušení šifrování.</string>
