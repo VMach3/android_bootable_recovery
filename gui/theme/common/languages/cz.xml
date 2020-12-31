@@ -10,9 +10,9 @@
 		<resource name="fixed" type="fontoverride" filename="DroidSansMono.ttf" scale="100" />
 
 		<string name="system">Systém</string>
-		<string name="system_image">Systému</string>
+		<string name="system_image">Systém</string>
 		<string name="vendor">Vendor</string>
-		<string name="vendor_image">Vedndor</string>
+		<string name="vendor_image">Vendor</string>
 		<string name="boot">Boot</string>
 		<string name="recovery">Recovery</string>
 		<string name="cache">Cache</string>
